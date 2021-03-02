@@ -1,5 +1,9 @@
-.dinamic{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 2em;
+p{
+    border: 2px solid #757575;
+    width: 12%;
+    text-align: center;
+    padding: 5px;
+    display: block;
+    margin: auto;
+    background-color: antiquewhite;
 }
